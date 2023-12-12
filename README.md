@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sha512Windos</h1>
+<h1 align="center">Hi 👋, I'm Sha512Windows</h1>
 <h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha512windows&label=Profile%20views&color=0e75b6&style=flat" alt="sha512windows" /> </p>
